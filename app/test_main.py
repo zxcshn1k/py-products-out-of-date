@@ -23,7 +23,7 @@ def test_outdated_products(
 
     products = [
         {
-            "name": "product",
+            "name": "duck",
             "expiration_date": expiration_date,
             "price": 100,
         }
